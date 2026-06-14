@@ -26,10 +26,6 @@ The dashboard provides insights into:
 - Total Orders
 - Total Customers
 
-## Dashboard Preview
-
-(Add dashboard screenshot here)
-
 ## Business Insights
 
 - Electronics generated the highest revenue.
